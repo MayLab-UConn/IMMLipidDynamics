@@ -1,1 +1,1 @@
-# IMMLipidDyamics
+# IMMLipidDynamics
