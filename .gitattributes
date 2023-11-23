@@ -1,0 +1,4 @@
+pt-imm-npt-solv.gro filter=lfs diff=lfs merge=lfs -text
+pt-force-4us.xvg filter=lfs diff=lfs merge=lfs -text
+bot_hg-4us.xtc filter=lfs diff=lfs merge=lfs -text
+top_hg-4us.xtc filter=lfs diff=lfs merge=lfs -text
